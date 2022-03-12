@@ -1,0 +1,7 @@
+C:\Users\gusta\source\repos\retorno_compacto\retorno_compacto\bin\Debug\retorno_compacto.exe.config
+C:\Users\gusta\source\repos\retorno_compacto\retorno_compacto\bin\Debug\retorno_compacto.exe
+C:\Users\gusta\source\repos\retorno_compacto\retorno_compacto\bin\Debug\retorno_compacto.pdb
+C:\Users\gusta\source\repos\retorno_compacto\retorno_compacto\obj\Debug\retorno_compacto.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\retorno_compacto\retorno_compacto\obj\Debug\retorno_compacto.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\retorno_compacto\retorno_compacto\obj\Debug\retorno_compacto.exe
+C:\Users\gusta\source\repos\retorno_compacto\retorno_compacto\obj\Debug\retorno_compacto.pdb
